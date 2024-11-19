@@ -67,3 +67,12 @@ The deployment of a machine learning model for emotion detection within an Andro
 - **User Feedback**: Collecting user feedback to refine the user experience and application functionality.
 
 This document serves as a comprehensive guide for the deployment process, aiming to assist developers in creating sophisticated and responsive emotion detection applications.
+
+<br>
+
+<h4>App Preview</h4><br>
+![WhatsApp Image 2024-11-19 at 11 30 21_f6f5350a](https://github.com/user-attachments/assets/4a0ba633-b596-4e29-8949-e6855e2013f9)
+![WhatsApp Image 2024-11-19 at 11 30 21_ae6760a6](https://github.com/user-attachments/assets/d24aab5e-d7b6-473e-8fad-31ad370d87da)
+![WhatsApp Image 2024-11-19 at 11 30 22_8c02cd9f](https://github.com/user-attachments/assets/6193d68f-da4f-402b-be68-af5a4b59c44b)
+![WhatsApp Image 2024-11-19 at 11 30 22_fc74b145](https://github.com/user-attachments/assets/c299c472-40c4-4135-8602-e86b40a9ae22)
+
