@@ -70,6 +70,7 @@ This document serves as a comprehensive guide for the deployment process, aiming
 
 <br>
 <h4>App Preview</h4><br>
+
 ![WhatsApp Image 2024-11-19 at 11 30 21_f6f5350a](https://github.com/user-attachments/assets/47630e4c-921b-4bd9-9a22-4277a4c4f4a4)<br>
 
 ![WhatsApp Image 2024-11-19 at 11 30 21_ae6760a6](https://github.com/user-attachments/assets/be95a5b4-a90f-41a4-8e3f-b9a57b062755)<br>
